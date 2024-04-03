@@ -2,7 +2,7 @@
 # Jogo de Adivinhação
 
 <p align="center">
-	<img width="450" src="/docs/img/jogo-de-adivinhacao.gif">
+	<img width="650" src="/docs/img/jogo-de-adivinhacao.gif">
 </p>
 
 ## Projeto
